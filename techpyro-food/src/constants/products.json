@@ -1,0 +1,476 @@
+[{
+  "_id": {
+    "$oid": "64aa9a6f66f85d7ec0df3e43"
+  },
+  "title": {
+    "shortTitle": "Stay Cozy: Embrace the Huddies Lifestyle ",
+    "longTitle": "The classic and versatile hoodie with a simple design, typically featuring a hood, front pocket, and a relaxed fit. It's a staple for casual and everyday wear "
+  },
+  "category": "Huddie",
+  "subCategory": "Basic Hoodie",
+  "price": {
+    "mrp": 429,
+    "discount": "40%",
+    "cost": 210
+  },
+  "image": "https://img.freepik.com/premium-photo/mockup-blank-black-hoodie-background_618582-663.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/synthetic-sports-hoodie-mockup-hoodie-with-zipper-insulated-white-background_124507-29597.jpg?size=626&ext=jpg",
+      "_id": {
+        "$oid": "64aa9a6f66f85d7ec0df3e44"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T11:30:55.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T11:30:55.599Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aa9b8166f85d7ec0df3e4e"
+  },
+  "title": {
+    "shortTitle": "Stay Cozy: Embrace the Huddies Lifestyle ",
+    "longTitle": "Similar to the basic hoodie, but with a zipper running down the front, allowing for easy wearing and ventilation options "
+  },
+  "category": "Huddie",
+  "subCategory": "Zip-up Hoodie",
+  "price": {
+    "mrp": 499,
+    "discount": "40%",
+    "cost": 210
+  },
+  "image": "https://img.freepik.com/premium-photo/serious-athletic-man-black-hoodie_132075-1338.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/front-view-black-hoodie-isolated-white-background_236836-22582.jpg?size=626&ext=jpg",
+      "_id": {
+        "$oid": "64aa9b8166f85d7ec0df3e4f"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T11:35:29.494Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T11:35:29.494Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aa9c5266f85d7ec0df3e53"
+  },
+  "title": {
+    "shortTitle": "Stay Cozy: Embrace the Huddies Lifestyle ",
+    "longTitle": "Also known as a jumper hoodie, it doesn't have a zipper and needs to be pulled over the head. It offers a snug fit and is popular for its simplicity "
+  },
+  "category": "Huddie",
+  "subCategory": "Pullover Hoodie",
+  "price": {
+    "mrp": 499,
+    "discount": "40%",
+    "cost": 210
+  },
+  "image": "https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/front-view-black-hoodie-isolated-white-background_236836-22582.jpg?size=626&ext=jpg",
+      "_id": {
+        "$oid": "64aa9c5266f85d7ec0df3e54"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T11:38:58.287Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T11:38:58.287Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aad92e6bbc4c2fda0f73c3"
+  },
+  "title": {
+    "shortTitle": "Stay Cozy: Embrace the Huddies Lifestyle ",
+    "longTitle": "Also known as a jumper hoodie, it doesn't have a zipper and needs to be pulled over the head. It offers a snug fit and is popular for its simplicity "
+  },
+  "category": "Huddie",
+  "subCategory": "Pullover Hoodie",
+  "price": {
+    "mrp": 499,
+    "discount": "40%",
+    "cost": 210
+  },
+  "image": "https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/front-view-black-hoodie-isolated-white-background_236836-22582.jpg?size=626&ext=jpg",
+      "_id": {
+        "$oid": "64aad92e6bbc4c2fda0f73c4"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T15:58:38.306Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T15:58:38.306Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab1d98ed476bbcb8b96d7f"
+  },
+  "title": {
+    "shortTitle": "Stay Cozy: Embrace the Huddies Lifestyle ",
+    "longTitle": "Also known as a jumper hoodie, it doesn't have a zipper and needs to be pulled over the head. It offers a snug fit and is popular for its simplicity "
+  },
+  "category": "Huddie",
+  "subCategory": "Pullover Hoodie",
+  "price": {
+    "mrp": 499,
+    "discount": "40%",
+    "cost": 210
+  },
+  "color": [
+    "red",
+    "blue",
+    "green",
+    "orange"
+  ],
+  "image": "https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/front-view-black-hoodie-isolated-white-background_236836-22582.jpg?size=626&ext=jpg",
+      "_id": {
+        "$oid": "64ab1d98ed476bbcb8b96d80"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T20:50:32.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T20:50:32.858Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab1f5bed476bbcb8b96d92"
+  },
+  "title": {
+    "shortTitle": "Life is Better in Flip Flops",
+    "longTitle": "This is the classic t-shirt style with a round neckline that sits along the base of the neck "
+  },
+  "category": " T-Shirt",
+  "subCategory": "Crew Neck T-Shirt",
+  "price": {
+    "mrp": 449,
+    "discount": "40%",
+    "cost": 210
+  },
+  "color": [
+    "red",
+    "blue",
+    "yellow",
+    "#FFC1CA",
+    "#92CCFB",
+    "black"
+  ],
+  "image": "https://img.freepik.com/premium-photo/tshirt-back_739536-3477.jpg?size=626&ext=jpg",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://img.freepik.com/premium-photo/black-white-color-men-s-tshirts-design-template_236836-22580.jpg?w=740",
+      "_id": {
+        "$oid": "64ab1f5bed476bbcb8b96d93"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T20:58:03.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T20:58:03.511Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab206fed476bbcb8b96d97"
+  },
+  "title": {
+    "shortTitle": "Life is Better in Flip Flops",
+    "longTitle": "Similar to the crew neck, but with a V-shaped neckline that elongates the neck and provides a more stylish look "
+  },
+  "category": " T-Shirt",
+  "subCategory": "V-Neck T-Shirt",
+  "price": {
+    "mrp": 449,
+    "discount": "40%",
+    "cost": 210
+  },
+  "color": [
+    "#23B9AD",
+    "#fff",
+    "#4E573B",
+    "#273347",
+    "#632E3D",
+    "black"
+  ],
+  "image": "https://rukminim2.flixcart.com/image/832/832/l45xea80/t-shirt/z/p/4/xl-2726-0101-wintg-jockey-original-imagf4hpzzwyykqd.jpeg?q=70",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://rukminim2.flixcart.com/image/832/832/l45xea80/t-shirt/y/p/o/xl-2726-0101-wintg-jockey-original-imagf4hp3xcs3qbq.jpeg?q=70",
+      "_id": {
+        "$oid": "64ab206fed476bbcb8b96d98"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T21:02:39.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T21:02:39.703Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab22fd8c391ed4a5410ba3"
+  },
+  "title": {
+    "shortTitle": "Life is Better in Flip Flops",
+    "longTitle": "Similar to the crew neck, but with a V-shaped neckline that elongates the neck and provides a more stylish look "
+  },
+  "category": "Hoodie",
+  "subCategory": "Hoodie Dress",
+  "price": {
+    "mrp": 499,
+    "discount": "40%",
+    "cost": 210
+  },
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "color": [
+    "#23B9AD",
+    "#fff",
+    "#4E573B",
+    "#273347",
+    "#632E3D",
+    "black"
+  ],
+  "image": "https://rukminim2.flixcart.com/image/612/612/kmds4nk0/dress/q/h/i/l-cotton-24-dress-02-blue-v-girl-original-imagfajeczvkdj9y.jpeg?q=70",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://rukminim2.flixcart.com/image/612/612/kmds4nk0/dress/5/e/2/s-cotton-24-dress-01-blue-v-girl-original-imagfajfmewwjvhy.jpeg?q=70",
+      "_id": {
+        "$oid": "64ab22fd8c391ed4a5410ba4"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T21:13:33.111Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T21:13:33.111Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab24728c391ed4a5410ba8"
+  },
+  "title": {
+    "shortTitle": "Peace, Love, and Happiness",
+    "longTitle": "As the name suggests, these hoodies lack sleeves, making them suitable for layering or warmer weather. They still have a hood and are often worn over a t-shirt or tank top"
+  },
+  "category": "Hoodie",
+  "subCategory": "Sleeveless Hoodie",
+  "price": {
+    "mrp": 359,
+    "discount": "40%",
+    "cost": 210
+  },
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "color": [
+    "#D6D8DA",
+    "#212441",
+    "#DF9F36",
+    "#131212",
+    "#632E3D",
+    "black"
+  ],
+  "image": "https://rukminim2.flixcart.com/image/612/612/k3hmj680/sweatshirt/v/q/x/s-rh-flc-slvlsshood-nvy-rockhard-original-imafmhptfvmqktgh.jpeg?q=70",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://rukminim2.flixcart.com/image/612/612/k3hmj680/sweatshirt/f/c/q/xl-rh-flc-slvlsshood-mstrd-rockhard-original-imafmhptybrbecg3.jpeg?q=70",
+      "_id": {
+        "$oid": "64ab24728c391ed4a5410ba9"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T21:19:46.178Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T21:19:46.178Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab25d58c391ed4a5410bad"
+  },
+  "title": {
+    "shortTitle": "Peace, Love, and Happiness",
+    "longTitle": "T-shirts with a small pocket on the chest, adding a functional and aesthetic element"
+  },
+  "category": "T-Shirt",
+  "subCategory": "Pocket T-Shirt",
+  "price": {
+    "mrp": 495,
+    "discount": "40%",
+    "cost": 210
+  },
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "#2F4139",
+    "#521924",
+    "#AAB57D",
+    "#F7E9D8",
+    "#F19BA2",
+    "black"
+  ],
+  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-t-shirt/k/b/v/xl-shmt6-ol-uniberry-original-imagz4wvsrdw4pk8.jpeg?q=70",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/i/c/xl-nvmt4-mr-uniberry-original-imagz4wkdkvggevh.jpeg?q=70",
+      "_id": {
+        "$oid": "64ab25d58c391ed4a5410bae"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T21:25:41.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T21:25:41.340Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ab2f7d8c391ed4a5411379"
+  },
+  "title": {
+    "shortTitle": "Peace, Love, and Happiness",
+    "longTitle": "T-shirts with a small pocket on the chest, adding a functional and aesthetic element"
+  },
+  "category": "T-Shirt",
+  "subCategory": "Pocket T-Shirt",
+  "price": {
+    "mrp": 495,
+    "discount": "40%",
+    "cost": 210
+  },
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "#2F4139",
+    "#521924",
+    "#AAB57D",
+    "#F7E9D8",
+    "#F19BA2",
+    "black"
+  ],
+  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-t-shirt/k/b/v/xl-shmt6-ol-uniberry-original-imagz4wvsrdw4pk8.jpeg?q=70",
+  "productImages": [
+    {
+      "name": "huddies",
+      "path": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/i/c/xl-nvmt4-mr-uniberry-original-imagz4wkdkvggevh.jpeg?q=70",
+      "_id": {
+        "$oid": "64ab2f7d8c391ed4a541137a"
+      }
+    }
+  ],
+  "productUrl": "https://techpyro-restaurent8.netlify.app/",
+  "isAppUser": true,
+  "createdAt": {
+    "$date": "2023-07-09T22:06:53.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-09T22:06:53.007Z"
+  },
+  "isDeleted": false,
+  "isActive": true,
+  "__v": 0
+}]
